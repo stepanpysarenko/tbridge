@@ -1,4 +1,3 @@
-# tbridge.narod.ru
+# tbridge
 
-Pet project back from 2008\
-Original URL: http://tbridge.narod.ru/
+My first project from 2008 - a static site with my photos
